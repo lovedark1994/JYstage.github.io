@@ -4273,6 +4273,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.loopindex,
 		C3.Plugins.Text.Acts.AppendText,
 		C3.Behaviors.Tween.Acts.TweenTwoProperties,
+		C3.Plugins.Text.Cnds.IsVisible,
 		C3.Plugins.Text.Cnds.CompareInstanceVar,
 		C3.Plugins.Text.Acts.TypewriterText,
 		C3.Plugins.Dictionary.Exps.Get,
@@ -4318,6 +4319,7 @@ self.C3_JsPropNameTable = [
 	{Browser: 0},
 	{阿吉: 0},
 	{Text3: 0},
+	{Text4: 0},
 	{模式: 0}
 ];
 }
